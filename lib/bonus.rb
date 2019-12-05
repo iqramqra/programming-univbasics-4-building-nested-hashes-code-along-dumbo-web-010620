@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  epic_tragedy[:Montague][:patriarch][:name]
+  epic_tragedy[:Montague][:hero][:status] = "dead"
   
   
 
